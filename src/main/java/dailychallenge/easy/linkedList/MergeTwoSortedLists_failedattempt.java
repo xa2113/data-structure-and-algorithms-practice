@@ -3,7 +3,7 @@ package dailychallenge.easy.linkedList;
 
 import java.util.LinkedList;
 
-public class MergeTwoSortedLists {
+public class MergeTwoSortedLists_failedattempt {
     public static void main(String[] args) {
         LinkedList<Integer> l1 = new LinkedList<>();
             l1.add(1);

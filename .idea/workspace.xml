@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea6035b9-fa83-4aa5-9899-1b7bc789ca6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/RemoveDuplicateFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/CreatingProductArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/FindingNumbersThatSumToK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/CreatingProductArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/CreatingProductArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/FindingNumbersThatSumToK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/FindingNumbersThatSumToK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists_myattempt.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,15 +21,25 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists_myattempt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="-19">
+              <caret line="9" column="22" selection-end-line="43" />
               <folding>
+                <element signature="e#1136#1137#0" expanded="true" />
                 <element signature="e#1167#1168#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="75" column="34" lean-forward="true" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -51,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/RemoveDuplicateFromArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -86,13 +88,17 @@
         <option value="$PROJECT_DIR$/src/main/java/dailychallenge/easy/RomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/dailychallenge/easy/RemoveDuplicateFromArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists_myattempt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists_answer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeLists.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="159" />
+    <option name="x" value="586" />
     <option name="y" value="23" />
-    <option name="width" value="1121" />
+    <option name="width" value="694" />
     <option name="height" value="723" />
   </component>
   <component name="ProjectView">
@@ -100,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,11 +170,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553310793756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553591394136" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,9 +189,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeTwoSortedLists">
-    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailychallenge.easy.linkedList.MergeTwoSortedLists" />
+  <component name="RunManager" selected="Application.MergeLists">
+    <configuration name="MergeLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailychallenge.easy.linkedList.MergeLists" />
+      <module name="com.eileen.interview-practice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dailychallenge.easy.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedLists_failedattempt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailychallenge.easy.linkedList.MergeTwoSortedLists_failedattempt" />
       <module name="com.eileen.interview-practice.main" />
       <extension name="coverage">
         <pattern>
@@ -236,26 +255,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructures.strings.StringOperations" />
-      <module name="com.eileen.interview-practice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructures.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeTwoSortedLists" />
+        <item itemvalue="Application.MergeLists" />
+        <item itemvalue="Application.MergeTwoSortedLists_failedattempt" />
         <item itemvalue="Application.RemoveDuplicateFromArray" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.ReverseInteger" />
-        <item itemvalue="Application.StringOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -273,9 +279,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="23" width="1121" height="723" extended-state="0" />
+    <frame x="586" y="23" width="694" height="723" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3429101" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19951534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,7 +294,7 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32646593" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27575278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39936608" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,11 +357,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists_myattempt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="-19">
+          <caret line="9" column="22" selection-end-line="43" />
           <folding>
+            <element signature="e#1136#1137#0" expanded="true" />
             <element signature="e#1167#1168#0" expanded="true" />
           </folding>
         </state>
@@ -370,8 +377,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/RemoveDuplicateFromArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="75" column="34" lean-forward="true" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
         </state>
       </provider>
     </entry>
