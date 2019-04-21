@@ -3,7 +3,7 @@ package dailychallenge.easy.linkedList;
 
 import java.util.LinkedList;
 
-public class MergeTwoSortedLists_failedattempt {
+public class MergeTwoSortedLists_2 {
     public static void main(String[] args) {
         LinkedList<Integer> l1 = new LinkedList<>();
             l1.add(1);
@@ -15,21 +15,9 @@ public class MergeTwoSortedLists_failedattempt {
             l2.add(3);
             l2.add(4);
 
-        System.out.println(mergeTwoLists(l1, l2));
 
 
-    }
 
-    public static LinkedList<Integer> mergeTwoLists(LinkedList<Integer> l1, LinkedList<Integer> l2) {
-        LinkedList newList = new LinkedList<>();
-        while (l1.peek() != null || l2.peek() != null) {
-            if (l1.peek() < l2.peek() || l1.peek() == l2.peek()) {
-                newList.add(l1.poll());
-            } else {
-                newList.add(l2.pop());
-            }
-        }
-        return newList;
     }
 
     private static class ListNode {

@@ -1,4 +1,4 @@
-package dataStructures.ArrayAndStrings;
+package dataStructures.arrayAndArrayList;
 
 public class FindPivotIndex {
 
