@@ -2,7 +2,7 @@ package dataStructures.linkedList;
 
 public class SinglyLinkedList {
 
-    private ListNode head;
+    private ListNode2 head;
     private int size;
 
     public SinglyLinkedList() {
@@ -12,7 +12,7 @@ public class SinglyLinkedList {
 
     //insert an item
     public void insertFront(Object item) {
-        head = new ListNode(item, head);
+        head = new ListNode2(item, head);
         size++;
     }
 

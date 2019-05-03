@@ -8,7 +8,7 @@ public class RemoveDuplicates {
       ListNode(int x) { val = x; }
   }
 
-//    public ListNode deleteDuplicates(ListNode head){
+//    public ListNode2 deleteDuplicates(ListNode2 head){
 //
 //    }
 
