@@ -1,4 +1,4 @@
-package dailychallenge.easy.linkedList;
+package leetcode.easy.linkedList;
 
 public class RemoveDuplicates {
 

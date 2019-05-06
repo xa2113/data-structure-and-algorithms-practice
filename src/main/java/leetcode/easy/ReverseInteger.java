@@ -1,4 +1,4 @@
-package dailychallenge.easy;
+package leetcode.easy;
 
 //Given a 32-bit signed integer, reverse digits of an integer.
 

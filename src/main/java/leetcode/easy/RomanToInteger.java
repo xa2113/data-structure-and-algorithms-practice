@@ -1,4 +1,4 @@
-package dailychallenge.easy;
+package leetcode.easy;
 
 public class RomanToInteger {
 

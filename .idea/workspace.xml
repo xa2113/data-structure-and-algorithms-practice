@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea6035b9-fa83-4aa5-9899-1b7bc789ca6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapClosedHashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapOpenHashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/hashtable/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/queue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/BinaryTreeLeafSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/MaxDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/CreatingProductArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/CreatingProductArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/FindingNumbersThatSumToK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/FindingNumbersThatSumToK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/RemoveDuplicateFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/RemoveDuplicateFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/linkedList/MergeLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/linkedList/MergeTwoSortedLists_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/easy/linkedList/RemoveDuplicates.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -84,42 +93,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapClosedHashing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="104" selection-start-line="32" selection-start-column="104" selection-end-line="32" selection-end-column="104" />
+            <state relative-caret-position="416">
+              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/LinkedListImplementation.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/BinaryTreeLeafSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/MaxDepthOfBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/ListNode2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/Jiuzhang/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="135">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -192,12 +197,16 @@
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapChainingHashing.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapOpenHashing.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapClosedHashing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lintcode/recursionproblems/BinaryTreeLeafSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/BinaryTreeLeafSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/MaxDepthOfBinaryTree.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="217" />
-    <option name="y" value="23" />
+    <option name="x" value="392" />
+    <option name="y" value="27" />
     <option name="width" value="1211" />
     <option name="height" value="723" />
   </component>
@@ -240,33 +249,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dailychallenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structure-and-algorithm-practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dailychallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structure-and-algorithm-practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dailychallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursion.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structure-and-algorithm-practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,7 +258,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="hashtable" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
@@ -285,8 +267,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="hashtable" type="462c0819:PsiDirectoryNode" />
-              <item name="MyMapOpenHashing.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="recursionproblems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
@@ -305,7 +287,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557105256285" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557106602980" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
@@ -340,11 +322,11 @@
       </method>
     </configuration>
     <configuration name="MergeLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailychallenge.easy.linkedList.MergeLists" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.linkedList.MergeLists" />
       <module name="com.eileen.interview-practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dailychallenge.easy.linkedList.*" />
+          <option name="PATTERN" value="leetcode.easy.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,11 +335,11 @@
       </method>
     </configuration>
     <configuration name="MergeTwoSortedLists_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailychallenge.easy.linkedList.MergeTwoSortedLists_2" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.linkedList.MergeTwoSortedLists_2" />
       <module name="com.eileen.interview-practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dailychallenge.easy.linkedList.*" />
+          <option name="PATTERN" value="leetcode.easy.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,11 +348,11 @@
       </method>
     </configuration>
     <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailychallenge.easy.Recursion" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.Recursion" />
       <module name="com.eileen.interview-practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dailychallenge.easy.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,11 +361,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailychallenge.easy.Test" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.Test" />
       <module name="com.eileen.interview-practice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dailychallenge.easy.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,7 +397,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="531" y="23" width="1211" height="723" extended-state="0" />
+    <frame x="392" y="27" width="1211" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31308812" />
@@ -459,7 +441,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/FindPivotIndex.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/ArrayAndStrings/DynamicArrayDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/ArrayAndStrings/FindPivotIndex.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/RemoveDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/linkedList/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
@@ -480,7 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeTwoSortedLists_2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/linkedList/MergeTwoSortedLists_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
@@ -515,7 +497,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/linkedList/MergeLists.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/linkedList/MergeLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
@@ -529,21 +511,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/CreatingProductArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/CreatingProductArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/RomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
@@ -553,14 +535,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/FindingNumbersThatSumToK.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/FindingNumbersThatSumToK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/Recursion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -571,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/PalindromeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
@@ -599,14 +581,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/RemoveDuplicateFromArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/RemoveDuplicateFromArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailychallenge/easy/ReverseInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/easy/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
@@ -720,8 +702,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapClosedHashing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="104" selection-start-line="32" selection-start-column="104" selection-end-line="32" selection-end-column="104" />
+        <state relative-caret-position="416">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/BinaryTreeLeafSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/MaxDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
