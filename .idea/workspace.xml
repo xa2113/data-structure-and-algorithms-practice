@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea6035b9-fa83-4aa5-9899-1b7bc789ca6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/bfs/BreadthFirstTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/bfs/problems/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/bfs/problems/ConvertBinaryTreeToLinkedListByDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/IdenticalBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/ValidateBinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/CreatingProductArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/FindingNumbersThatSumToK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/PalindromeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/RecursionWithLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/RemoveDuplicateFromArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/RomanToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/linkedList/MergeLists$Gfg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/linkedList/MergeLists$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/linkedList/MergeLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/linkedList/MergeTwoSortedLists_2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/linkedList/MergeTwoSortedLists_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/linkedList/RemoveDuplicates$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dailychallenge/easy/linkedList/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dataStructures/linkedList/LinkedListImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/dataStructures/linkedList/LinkedListImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dataStructures/linkedList/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dataStructures/linkedList/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/dataStructures/linkedList/SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructures/linkedList/Jiuzhang/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructures/linkedList/Jiuzhang/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/BinaryTreeLeafSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/dfs/recursionproblems/BinaryTreeLeafSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/MaxDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/dfs/recursionproblems/MaxDepthOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructures/tree/recursionproblems/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/dfs/recursionproblems/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/IdenticalBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/IdenticalBinaryTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -47,24 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashtable/Pair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapOpenHashing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashtable/MyMapClosedHashing.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/bfs/problems/ConvertBinaryTreeToLinkedListByDepth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
+            <state relative-caret-position="177">
               <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,11 +74,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/IdenticalBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/BalancedBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/ValidateBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,8 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/dataStructures/ArrayAndStrings/FindPivotIndex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructures/strings/StringOperations.java" />
         <option value="$PROJECT_DIR$/src/main/java/dailychallenge/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/dailychallenge/Arrays/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/dailychallenge/Arrays/PalindromeNumber.java" />
@@ -209,12 +187,16 @@
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/bfs/problems/BinaryTreeLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/bfs/problems/ConvertBinaryTreeToLinkedListByDepth.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/IdenticalBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/ValidateBinarySearchTree.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="567" />
+    <option name="y" value="24" />
+    <option name="width" value="1116" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -292,6 +274,37 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="bfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-and-algorithm-practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="bfs" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-and-algorithm-practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="divideandconquer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-and-algorithm-practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lintcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -302,7 +315,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557255358297" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557267071490" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
@@ -412,10 +425,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="502" y="23" width="1116" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2996769" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23463687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -428,13 +441,13 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296355" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30547947" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30547947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.340729" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3280507" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37876385" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32857144" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -755,7 +768,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/bfs/problems/ConvertBinaryTreeToLinkedListByDepth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
+        <state relative-caret-position="177">
           <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -765,8 +778,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/IdenticalBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/tree/divideandconquer/ValidateBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
